@@ -1,4 +1,4 @@
-# ![Icon](images/BTT-icon.png)BetterTouchRoon
+# ![Icon](images/BTT-icon.png) BetterTouchRoon
 
 A [BetterTouchTool](https://folivora.ai)-Preset to control the [Roon](https://roonlabs.com) desktop app for macOS on different ways.
 
@@ -6,8 +6,8 @@ A [BetterTouchTool](https://folivora.ai)-Preset to control the [Roon](https://ro
 
 ### Download
 
-- [BetterTouchRoon (DE) Preset](raw/master/BetterTouchRoon (DE).bttpreset) for German keyboards
-- [BetterTouchRoon (IT) Preset](raw/master/BetterTouchRoon (DE).bttpreset) for International keyboards (US/UK) 
+- [BetterTouchRoon (DE) Preset](https://github.com/Tekl/BetterTouchRoon/raw/master/BetterTouchRoon%20(DE).bttpreset) for German keyboards
+- [BetterTouchRoon (IT) Preset](https://github.com/Tekl/BetterTouchRoon/raw/master/BetterTouchRoon%20(DE).bttpreset) for International keyboards (US/UK) 
 
 ### Installation
 
