@@ -6,8 +6,8 @@ A [BetterTouchTool](https://folivora.ai)-Preset to control the [Roon](https://ro
 
 ### Download (via ⌥click or contextual menu)
 
-- [BetterTouchRoon (DE) Preset](https://github.com/Tekl/BetterTouchRoon/releases/download/0.1/BetterTouchRoon%20(DE).bttpreset.zip) for German keyboards
-- [BetterTouchRoon (INT) Preset](https://github.com/Tekl/BetterTouchRoon/releases/download/0.1/BetterTouchRoon%20(INT).bttpreset.zip) for International keyboards (US/UK) 
+- [BetterTouchRoon (DE) Preset](https://github.com/Tekl/BetterTouchRoon/releases/download/0.1/BetterTouchRoon.DE.bttpreset.zip) for German keyboards
+- [BetterTouchRoon (INT) Preset](https://github.com/Tekl/BetterTouchRoon/releases/download/0.1/BetterTouchRoon.INT.bttpreset.zip) for International keyboards like US or UK
 
 ### Installation
 
@@ -44,3 +44,7 @@ Additional Views selector (tapping on the three dots)
 ### BTT Remote controls for iOS
 
 ![BTTRemote](images/BTTRemote.png)
+
+### Other shortcuts
+
+![Other](images/Other.png)
