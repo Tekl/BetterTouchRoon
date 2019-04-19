@@ -4,7 +4,7 @@ A [BetterTouchTool](https://folivora.ai)-Preset to control the [Roon](https://ro
 
 ⚠️ Note: The global shortcuts only work when the main Roon window is not closed. To avoid this, clicking the close button or pressing Cmd+W will just hide the Roon App when this Preset is active.
 
-### Download (via ⌥click or contextual menu)
+### Download
 
 - [BetterTouchRoon (DE) Preset](https://github.com/Tekl/BetterTouchRoon/releases/download/0.1/BetterTouchRoon.DE.bttpreset.zip) for German keyboards
 - [BetterTouchRoon (INT) Preset](https://github.com/Tekl/BetterTouchRoon/releases/download/0.1/BetterTouchRoon.INT.bttpreset.zip) for International keyboards like US or UK
